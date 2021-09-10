@@ -4,6 +4,7 @@
 @import url("components/bouton.css");
 @import url("components/banner.css");
 @import url("components/card.css");
+
 body {
 	font-family: 'Lora', serif;
 	font-size: 18px;
@@ -25,13 +26,10 @@ a:hover{
 	opacity: white;
 }
 
-
-
 .tete {
 	display: flex ;
 	justify-content: space-between;
 	background-color: #baaa82;
-
 }
 
 
@@ -41,10 +39,10 @@ a:hover{
 	justify-content: center;
 	align-items: center;
 }
+
 h3 {
 	margin-top: 100px;
 	text-align: center;
-
 }
 
 h4 {
